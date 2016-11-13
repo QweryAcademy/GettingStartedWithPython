@@ -1,6 +1,6 @@
 
 
-1. [Setting up our development environment. Installing python 3 and our text editor (Visual Studio Code)](https://github.com/QweryAcademy/GettingStartedWithPython/blob/master/packages/react-scripts/template/README.md#post-processing-css)
+1. [Setting up our development environment. Installing python 3 and our text editor (Visual Studio Code)](https://github.com/QweryAcademy/GettingStartedWithPython/blob/master/articles/ReadMe.md)
 
 2. Learning Python Basics Constructs
 
