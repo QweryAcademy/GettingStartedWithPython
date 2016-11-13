@@ -1,4 +1,4 @@
-
+## Table of Content
 
 1. [Setting up our development environment. Installing python 3 and our text editor (Visual Studio Code)](https://github.com/QweryAcademy/GettingStartedWithPython/blob/master/articles/ReadMe.md)
 
